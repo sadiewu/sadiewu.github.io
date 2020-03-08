@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 迁移！
+作为一个代码盲，我实在是搞不懂网站，各种操作后搞不掂出问题的博客（ 一直无法同步，然后删档重来了……订阅了 RSS 的朋友可能前阵子就发现这个订阅源莫名其妙出问题了。当时也不知道怎么解决，然后后来才想起来，可以直接随便挑个自带的 theme 改 index…… 所以就拖到现在
+所以本博客已经迁移到[Typlog](https://sadiewu.typlog.io/)啦！不出意外以后都会在那边更新……以前的文章会慢慢搬运过去的。然后我在[语雀](https://www.yuque.com/u265969/541)也有更新，就是可能不会那么及时（x
+感谢之前关注的朋友们！说实话在 Inoreader 看到有二十几个订阅好意外啊！没想到这么多人……真的很开心。（鞠躬 这么久过去了也不知道还有几个朋友能看见（
 
-You can use the [editor on GitHub](https://github.com/sadiewu/sadiewu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sadiewu/sadiewu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+斯迪
+2020.3.9
